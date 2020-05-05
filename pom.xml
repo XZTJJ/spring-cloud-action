@@ -5,6 +5,9 @@
     <groupId>com.example</groupId>
     <artifactId>spring-cloud-action</artifactId>
     <version>0.1</version>
+    <modules>
+        <module>feign-service-api</module>
+    </modules>
     <packaging>pom</packaging>
     <name>spring-cloud-action</name>
     <description>Demo project for Spring Boot</description>
